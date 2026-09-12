@@ -241,4 +241,4 @@ This repository serves as the official landing page for Road Rash. The software 
 **Get the most recent version of Road Rash today!**
 
 ---
-**Last updated:** 2026-09-12 12:43:08 UTC
+**Last updated:** 2026-09-12 16:04:27 UTC
